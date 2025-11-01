@@ -2,7 +2,7 @@
 A complete multi-page website about winter activities, built entirely with HTML and CSS. This project demonstrates semantic structure, navigation, forms, tables, and media integration using original photos and video content.
 
 ## Features
-- At least three HTML pages, including `index.html`
+- Three HTML pages, including `index.html`
 - Shared stylesheet (`styles.css`) for consistent styling
 - Navigation section included on every page
 - Table listing multiple winter activities
